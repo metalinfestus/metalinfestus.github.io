@@ -22,7 +22,7 @@ title: Metal Infestus
 email: metalinfestus@gmail.com
 description: A catedral do metal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://metalinfestus.github.io"
+url: "https://metalinfestus.com"
 source: ./
 timezone: Europe/Lisbon
 github: [metadata]
