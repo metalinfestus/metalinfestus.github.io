@@ -22,13 +22,16 @@ title: Metal Infestus
 email: metalinfestus@gmail.com
 description: A catedral do metal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-source: src
+url: "https://metalinfestus.github.io"
+source: ./
 timezone: Europe/Lisbon
 github: [metadata]
 
 # Build settings
-theme: chulapa-jekyll
+remote_theme: dieghernan/chulapa
+
+plugins:
+  - jekyll-include-cache
 
 chulapa-skin:
   skin: gitdev-dark
