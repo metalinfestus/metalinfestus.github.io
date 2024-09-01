@@ -20,15 +20,55 @@
 
 title: Metal Infestus
 email: metalinfestus@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Your homepage for Braga's newest metal festival!
+description: A catedral do metal
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+source: src
+timezone: Europe/Lisbon
+github: [metadata]
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: chulapa-jekyll
+
+chulapa-skin:
+  skin: gitdev-dark
+  vars:
+    footer-chulapa-bg-color: "#222"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+navbar:
+  style: dual
+  brand:
+    title: Início
+    img: "./assets/images/skull.png"
+    url: /
+  nav:
+    - title: Bilhetes
+      url: /tickets
+    - title: Localização
+      url: /location
+    - title: Sobre
+      url: /about
+    - title: Contactos
+      url: /contacts
+
+footer:
+  links:
+    - label: Instagram
+      icon: fab fa-instagram
+      url: https://www.instagram.com/metalinfestus?igsh=MWRyb2l4bmw5emVkdQ==
+    - label: Facebook
+      icon: fab fa-facebook
+      url: https://www.facebook.com/share/f9pCe6LY77ujbeLJ/
+    - label: Email
+      icon: fa-regular fa-envelope
+      url: "mailto:info@metalinfestus.com"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
