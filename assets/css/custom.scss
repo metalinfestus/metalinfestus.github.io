@@ -1,0 +1,23 @@
+---
+---
+
+#maincontent {
+	table {
+		margin-bottom: 2rem;
+		margin-top: 2rem;
+	}
+}
+
+.navbar-chulapa-fab {
+	label.navbar-toggler {
+		background-color: #84292f;
+	}
+}
+
+@media (min-width: 768px) {
+	#maincontent {
+		td {
+			padding: 0.5rem 1rem;
+		}
+	}
+}

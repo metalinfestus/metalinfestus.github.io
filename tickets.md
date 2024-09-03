@@ -5,13 +5,17 @@ permalink: /tickets/
 
 # {{ page.title }}
 
-**Reservas**: [info@metalinfestus.com](mailto:info@metalinfestus.com)
+## Reservas
 
-| Primeiros 25 bilhetes | 10 <i class="fa-solid fa-skull"></i> | <i class="fa-solid fa-check text-success"></i> Disponível |
-| Até 18 de Outubro | 12 <i class="fa-solid fa-skull"></i> | <i class="fa-solid fa-check text-success"></i> Disponível |
-| No dia do festival | 15 <i class="fa-solid fa-skull"></i> | <i class="fa-solid fa-check text-success"></i> Disponível |
-| Bilhete + t-shirt | 25 <i class="fa-solid fa-skull"></i> | <i class="fa-solid fa-check text-success"></i> Disponível |
+<i class="fa-regular fa-envelope"></i> [info@metalinfestus.com](mailto:info@metalinfestus.com)
 
-## T-shirts
+<i class="fa-brands fa-whatsapp"></i> [+351 916 899 763](https://wa.me/351916899763)
+
+| 10 <i class="fa-solid fa-skull"></i> | Primeiros 25 bilhetes | <i class="fa-solid fa-check text-success"></i> Disponível |
+| 12 <i class="fa-solid fa-skull"></i> | Até 18 de Outubro | <i class="fa-solid fa-check text-success"></i> Disponível |
+| 15 <i class="fa-solid fa-skull"></i> | No dia do festival | <i class="fa-solid fa-check text-success"></i> Disponível |
+| 25 <i class="fa-solid fa-skull"></i> | Bilhete + t-shirt | <i class="fa-solid fa-check text-success"></i> Disponível |
+
+### T-shirts
 
 Quem quiser mais t-shirts do festival deverá indicar isso no email.

@@ -36,7 +36,7 @@ plugins:
 chulapa-skin:
   skin: gitdev-dark
   vars:
-    footer-chulapa-bg-color: "#222"
+    footer-chulapa-bg-color: "#202020"
 
 defaults:
   - scope:
