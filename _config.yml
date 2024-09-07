@@ -70,7 +70,7 @@ footer:
       url: https://www.facebook.com/share/f9pCe6LY77ujbeLJ/
     - label: Email
       icon: fa-regular fa-envelope
-      url: "mailto:info@metalinfestus.com"
+      url: "info@metalinfestus.com"
 
 
 # Exclude from processing.
