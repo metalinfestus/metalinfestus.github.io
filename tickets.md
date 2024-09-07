@@ -7,6 +7,8 @@ permalink: /tickets/
 
 ## Reservas
 
+Para reservares os teus bilhetes envia uma mensagem por email ou WhatsApps para os seguintes contactos, indicando quantos bilhetes pretendes reservar:
+
 <i class="fa-regular fa-envelope"></i> [info@metalinfestus.com](mailto:info@metalinfestus.com)
 
 <i class="fa-brands fa-whatsapp"></i> [+351 916 899 763](https://wa.me/351916899763)
@@ -18,4 +20,4 @@ permalink: /tickets/
 
 ### T-shirts
 
-Quem quiser mais t-shirts do festival deverá indicar isso no email.
+Quem quiser mais t-shirts do festival deverá indicar isso na mensagem.
