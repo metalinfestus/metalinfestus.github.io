@@ -23,6 +23,7 @@ email: metalinfestus@gmail.com
 description: A catedral do metal
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metalinfestus.com"
+og_image: "./assets/images/opengraph.jpg"
 source: ./
 timezone: Europe/Lisbon
 github: [metadata]
