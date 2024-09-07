@@ -7,7 +7,7 @@ permalink: /tickets/
 
 ## Reservas
 
-Para reservares os teus bilhetes envia uma mensagem por email ou WhatsApps para os seguintes contactos, indicando quantos bilhetes pretendes reservar:
+Para reservares os teus bilhetes envia uma mensagem por email ou WhatsApps para um dos seguintes contactos, indicando quantos bilhetes pretendes reservar:
 
 <i class="fa-regular fa-envelope"></i> [info@metalinfestus.com](mailto:info@metalinfestus.com)
 
