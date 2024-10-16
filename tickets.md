@@ -16,8 +16,8 @@ Para reservares os teus bilhetes envia uma mensagem por email ou WhatsApps para 
 | 10 <i class="fa-solid fa-skull"></i> | Primeiros 25 bilhetes | <i class="fa-solid fa-xmark text-danger"></i> Esgotado |
 | 12 <i class="fa-solid fa-skull"></i> | Até 18 de Outubro | <i class="fa-solid fa-check text-success"></i> Disponível |
 | 15 <i class="fa-solid fa-skull"></i> | No dia do festival | <i class="fa-solid fa-check text-success"></i> Disponível |
-| 25 <i class="fa-solid fa-skull"></i> | Bilhete + t-shirt | <i class="fa-solid fa-check text-success"></i> Disponível |
+| 25 <i class="fa-solid fa-skull"></i> | Bilhete + t-shirt | <i class="fa-solid fa-xmark text-danger"></i> Esgotado |
 
 ### T-shirts
 
-Quem quiser mais t-shirts do festival deverá indicar isso na mensagem.
+De momento já não é possível pré-encomendar t-shirts do festival, mas teremos algumas à venda no próprio dia.
