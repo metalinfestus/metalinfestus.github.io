@@ -52,6 +52,8 @@ navbar:
     img: "./assets/images/skull.png"
     url: /
   nav:
+    - title: Horário
+      url: /timetable
     - title: Bilhetes
       url: /tickets
     - title: Localização
