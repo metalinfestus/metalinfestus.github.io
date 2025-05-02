@@ -27,6 +27,7 @@ og_image: "./assets/images/opengraph.jpg"
 source: ./
 timezone: Europe/Lisbon
 github: [metadata]
+gtag_id: G-Q0Z1ZDXDBC
 
 # Build settings
 remote_theme: dieghernan/chulapa
@@ -52,14 +53,16 @@ navbar:
     img: "./assets/images/skull.png"
     url: /
   nav:
-    - title: Horário
-      url: /timetable
     - title: Bilhetes
       url: /tickets
+    - title: Horário
+      url: /timetable
     - title: Localização
       url: /location
     - title: Sobre
       url: /about
+    - title: Arquivo
+      url: /archive
     - title: Contactos
       url: /contacts
 
