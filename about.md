@@ -10,12 +10,14 @@ permalink: /about/
 Festival de música pesada, em Braga, que se realiza uma vez por ano, com o objetivo de ser uma referência no Concelho de
 Braga para os fãs do metal.
 
+Também é o nome da organização encarregue do festival e de outros eventos na cidade.
+
 <img class="img-fluid" src="/assets/images/metal.jpg"/>
 
 ## Quem somos
 
-Somos um grupo de três amigos de Braga, que costumam ir a concertos e festivais, fora de Braga, e que gostariam de ter
-mais opções de concertos para assistir na sua própria cidade.
+Somos um grupo de três amigos de Braga, que costumam ir a concertos e festivais, dentro e fora de Braga, e que gostariam
+de ter mais opções de concertos para assistir na sua própria cidade.
 
 ## Porquê
 

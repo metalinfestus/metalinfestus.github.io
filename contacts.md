@@ -11,7 +11,8 @@ Braga, Portugal
 
 ## Entrar em contacto connosco
 
-Qualquer uma das seguintes formas de contacto podem ser usadas para qualquer questão relacionada com o festival.
+Qualquer uma das seguintes formas de contacto podem ser usadas para qualquer questão relacionada com o festival, ou
+outros eventos.
 
 <i class='fa-regular fa-envelope'></i> Email
 : [info@metalinfestus.com](mailto:info@metalinfestus.com)
