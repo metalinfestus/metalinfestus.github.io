@@ -5,11 +5,13 @@ permalink: /tickets/
 
 # {{ page.title }}
 
+Os bilhetes podem ser comprados antecipadamente na [Piranha, Loja de Música](https://www.piranhacd.com/), no Porto, ou
+no dia do espetáculo no Mavy, em Braga.
+
 ## Reservas
 
-É sempre possível comprar os bilhetes no dia do espetáculo, mas se quiseres reservar os teus bilhetes para a Noite da Má
-Vida envia uma mensagem por email ou WhatsApps para um dos seguintes contactos, indicando o teu nome e quantos bilhetes
-pretendes reservar:
+Se quiseres reservar os teus bilhetes para a Noite da Má Vida envia uma mensagem por email ou WhatsApps para um dos
+seguintes contactos, indicando o teu nome e quantos bilhetes pretendes reservar:
 
 <i class="fa-regular fa-envelope"></i> [info@metalinfestus.com](mailto:info@metalinfestus.com)
 
